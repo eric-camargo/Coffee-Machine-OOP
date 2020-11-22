@@ -1,3 +1,4 @@
+"""Code by Angela Bauer from App Brewery"""
 class MoneyMachine:
 
     CURRENCY = "$"
